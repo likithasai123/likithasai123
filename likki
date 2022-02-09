@@ -1,0 +1,5 @@
+km=int(input('enter km'))
+cm=km*300000
+print(cm)
+
+
