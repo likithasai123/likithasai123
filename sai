@@ -1,0 +1,6 @@
+d={1:'ramesh',2:'siddhu',3:'honey',4:'maha'}
+d.pop(1)
+d.pop(2)
+d.pop(3)
+d.pop(4)
+print(d)
